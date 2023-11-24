@@ -150,13 +150,27 @@ header {
 }
 
 /* hero */
+
 .hero-section {
   background-color: var(--navy-blue);
+  background-image: linear-gradient(
+    rgba(46, 47, 66, 0.7),
+    rgba(46, 47, 66, 0.7)
+    ),
+    url(/images/people-office.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+
   padding-top: 188px;
   padding-bottom: 188px;
   align-items: center;
   display: flex;
 }
+
 
 .hero-title {
   color: var(--white);

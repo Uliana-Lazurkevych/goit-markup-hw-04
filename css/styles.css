@@ -454,10 +454,6 @@ header {
   margin: 0;
 }
 
-.imag {
-  position: relative;
-}
-
 .portfolio-list-item {
   width: calc((100% - 48px) / 3);
   padding-left: 0;

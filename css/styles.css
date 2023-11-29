@@ -455,7 +455,7 @@ header {
   transform: translateY(100%);
 }
 
-.overlay-box:hover .overlay {
+.portfolio-list-item:hover .overlay {
   transform: translateY(0%);
 }
 
